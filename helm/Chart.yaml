@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-transaction-engine
+description: "BIAN Service Domain: Transaction Engine (Operate pattern, Operations and Execution)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - operate
+annotations:
+  bian/business-area: "Operations and Execution"
+  bian/business-domain: "Operations"
+  bian/asset-type: "Transaction Ledger"
+  bian/control-record: "Transaction Ledger Operating Session"
